@@ -6,16 +6,16 @@ export default {
   "reg": "2019/193738/07",
   "tagline": "Property | Development | Construction | Commercial Supply",
   "heroTitle": "Building, Plumbing & Supply Solutions You Can Trust in the Free State",
-  "heroText": "NHBRC registered home builder and government supplier based in Winburg. Quality, professionalism and speed of delivery at competitive prices.",
+  "heroText": "NHBRC registered home builder and government supplier based in Free State. Quality, professionalism and speed of delivery at competitive prices.",
   "phone": "+27 73 019 4559",
   "wa": "27730194559",
   "email": "tumzabonny@gmail.com",
-  "address": "465 Old Location, Makeleketla, Winburg 9420, Free State",
+  "address": "Free State",
   "about": "Tumza Bonny (Pty) Ltd is a B-BBEE Level 1 company registered with CIPC in 2019. We take part in property development and construction, supply government and private clients with hardware, stationery and consumables, and deliver plumbing, painting, roofing and maintenance services to schools, clinics, correctional services, municipalities and resorts. Our vision is to become a competitive, capable company generating sustainable income and jobs.",
   "equip": "Carmix 3500TC self-loading concrete mixer: 3.5 m³ per batch, 4x4 off-road, 600 L loading shovel and electronic weighing for consistent on-site concrete anywhere in the Free State.",
-  "areas": "Winburg, Makeleketla, Bloemfontein, Brandfort, Theunissen, Ventersburg, Welkom, Kroonstad, Sasolburg, Frankfort, Bethlehem and the Lejweleputswa and Fezile Dabi districts",
-  "metaTitle": "Tumza Bonny (Pty) Ltd | Construction, Plumbing, Painting & Supplies in Winburg, Free State",
-  "metaDesc": "NHBRC registered builder in Winburg, Free State: construction, plumbing, painting, roofing, paving, septic tank cleaning, portable toilets, hardware and stationery supply. Call +27 73 019 4559."
+  "areas": "Free State, Winburg,Makeleketla, Bloemfontein, Brandfort, Theunissen, Ventersburg, Welkom, Kroonstad, Sasolburg, Frankfort, Bethlehem and the Lejweleputswa and Fezile Dabi districts",
+  "metaTitle": "Tumza Bonny (Pty) Ltd | Construction, Plumbing, Painting & Supplies Around Free State",
+  "metaDesc": "NHBRC registered builder in Free State: construction, plumbing, painting, roofing, paving, septic tank cleaning, portable toilets, hardware and stationery supply. Call +27 73 019 4559."
  },
  "stats": [
   {
@@ -57,7 +57,7 @@ export default {
     },
     {
      "q": "Which areas do you build in?",
-     "a": "We work in Winburg, Bloemfontein, Welkom, Kroonstad, Sasolburg, Frankfort and surrounding Free State towns."
+     "a": "We work in Bloemfontein, Welkom, Winburg,Kroonstad, Sasolburg, Frankfort and surrounding Free State towns."
     }
    ],
    "metaDesc": "Building repairs, maintenance, civils and new builds by an NHBRC registered home builder. Call +27 73 019 4559."
@@ -66,7 +66,7 @@ export default {
    "slug": "plumbing",
    "icon": "plumbing",
    "name": "Plumbing Services",
-   "h1": "Plumber in Winburg & the Free State",
+   "h1": "Plumber in Free State",
    "short": "Plumbing installations and repairs for schools, clinics, water treatment plants and homes.",
    "intro": "From school ablution blocks to water treatment plants, our team installs and repairs pipework, taps, basins, urinals, toilets, pumps and drainage.",
    "bullets": [
@@ -142,7 +142,7 @@ export default {
    "slug": "paving",
    "icon": "paving",
    "name": "Paving",
-   "h1": "Paving Contractor in the Free State",
+   "h1": "Paving Contractor in Bloemfontein",
    "short": "Durable paving for resorts, truck stops, driveways and commercial sites.",
    "intro": "Professional paving for driveways, walkways, parking areas and commercial sites, built to last.",
    "bullets": [
